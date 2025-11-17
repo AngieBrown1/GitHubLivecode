@@ -1,12 +1,28 @@
- p {
+ #name {
+    /* plum because purple is my favorite color  */
      color: plum;
      text-decoration: line-through;
  }
 
+ #mother {
+    color: rgb(101, 101, 189);
+ }
+
+#grape {
+    color: rgb(111, 45, 168);
+    text-decoration: underline;
+}
+
  li {
-     color: rgb(12, 69, 12)
+     color: rgb(12, 69, 12);
+     
  }
 
  a {
-     color: blueviolet
+     color: rgb(43, 70, 226);
+ }
+
+ .long {
+    color: orangered;
+    font-weight: bolder;
  }
